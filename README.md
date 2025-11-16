@@ -1,3 +1,3 @@
-# 你好，世界
-我的第一个 GitHub 仓库
-我爱咖啡：：披萨：，和：舞者：。
+# hello-world
+My first repository on GitHub!
+I love :coffee:, :pizza:, and :dancer:.
